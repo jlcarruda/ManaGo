@@ -1,0 +1,23 @@
+{
+  "name": "mana-vai",
+  "version": "0.0.1",
+  "description": "",
+  "main": "mana-vai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^8.0.31",
+    "common-errors": "^1.0.4",
+    "glob": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.2",
+    "mongoose": "^4.12.3",
+    "qs": "^6.5.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "typescript": "^2.5.3"
+  }
+}
