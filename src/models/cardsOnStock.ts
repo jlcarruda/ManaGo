@@ -38,4 +38,4 @@ class CardsOnStock {
     }
 }
 
-exports.module = CardsOnStock;
+module.exports = CardsOnStock;
