@@ -20,7 +20,7 @@
     "glob": "^7.1.2",
     "gulp": "^4.0.0",
     "gulp-typescript": "^3.2.2",
-    "mongoose": "^4.12.3",
+    "mongoose": "^6.0.4",
     "qs": "^6.5.1",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
